@@ -183,7 +183,7 @@ print(mi_plate_distribution)
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/akamal341/your_repository.git
     cd your_repository
     ```
 
